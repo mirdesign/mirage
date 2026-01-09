@@ -4,6 +4,8 @@
 
 A research project for high performance pattern recognition and analysis on large data sets.
 
+>High performance pattern recognition and analysis on large data sets: we present a new algorithm for rapidly assigning reads to reference sequences in large common used or custom DNA datasets. This novel standalone identification algorithm pursues an approach without domain specific interpretation of the data and utilizing a dot matrix comparison to calculate scores. Its implementation in the “MirAge” tool proved to be a fast and accurate solution when compared to existing methods for metagenomics read binning, representing the primary defined pillars usability, fast operation and fresh approach.
+
 >This is part of a Manuscript.
 >First public release: December 2025  
 >Please refer to the Manuscript for further information.  
